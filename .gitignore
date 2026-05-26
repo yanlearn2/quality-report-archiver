@@ -8,3 +8,6 @@ __pycache__/
 *.lnk
 # 临时文件
 *.tmp
+
+# 运行数据
+processed_images.json
