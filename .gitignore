@@ -1,0 +1,10 @@
+# 环境变量配置（含密钥，不上传GitHub）
+.env
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+# Windows快捷方式
+*.lnk
+# 临时文件
+*.tmp
